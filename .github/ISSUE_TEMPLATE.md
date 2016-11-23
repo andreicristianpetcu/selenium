@@ -6,7 +6,7 @@ Selenium Version:
 Browser:  
 <!-- Internet Explorer?  Firefox? 
 
-FIREFOX 48+ IS ONLY COMPATIBLE WITH GECKODRIVER. Any issue logged here for 48+ will be closed as a duplicate of #2559
+CURRENTLY SELENIUM AND FIREFOX 48+ ONLY WORK WITH GECKODRIVER. Any issue logged here for 48+ will be closed as a duplicate of #2559 If you wish to add back support for WebDriver [please contribute](https://github.com/SeleniumHQ/selenium/issues/2942#issuecomment-259717567) but just keep in mind that WebDriver will not be supported in the future. 
 
 If the issue is with Google Chrome consider logging an issue with chromedriver instead:
 https://sites.google.com/a/chromium.org/chromedriver/help
